@@ -1,0 +1,23 @@
+# Core Python libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+xgboost
+imbalanced-learn
+
+# For experiments / notebooks
+jupyter
+notebook
+
+# Deep learning (optional, in case you try neural nets)
+tensorflow
+torch
+
+# Utilities
+tqdm
+joblib
+

@@ -1,0 +1,7 @@
+Prevention Actions:
+1) Real-time rules for TRANSFER/CASH_OUT with unusually high amounts or zero oldbalanceOrg.
+2) Velocity checks: multiple transfers within short intervals → flag.
+3) Strong customer auth (OTP/2FA), especially for new payees or large-value transfers.
+4) Behavioral profiling: compare to customer’s historical ranges (amount, time-of-day, recipient novelty).
+5) Destination account risk scoring (age of account, prior suspicious inflows).
+6) Step-up verification on high-risk signals (device change, IP change, first-time beneficiary).

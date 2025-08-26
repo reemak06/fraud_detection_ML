@@ -1,0 +1,6 @@
+Effectiveness Measurement (post-implementation):
+- Before/After fraud loss (total $ and rate).
+- Recall@K of alerts (how many frauds caught among top K alerts).
+- False positive rate (to protect customer experience).
+- Average time-to-detection; % stopped pre-settlement.
+- A/B test (pilot group vs control): compare fraud rate, customer friction.
