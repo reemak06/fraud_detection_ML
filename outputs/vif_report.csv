@@ -1,6 +1,3 @@
-feature,VIF
-amount,1.4496529891321093
-step,1.3858941437357821
-oldbalanceDest,1.3398978479558346
-oldbalanceOrg,1.0892369171794747
-isFlaggedFraud,
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ec4910db2235b34088217f2c53439752013c3d81f7a5ff4672bc7f86326ccd5
+size 145
